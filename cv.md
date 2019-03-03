@@ -16,8 +16,8 @@
 * [GitHub](https://github.com/ekoniuh)
 ### Skills
 1. **Photoshop, avocode, figma.**
-2. **HTML5**(BEM)
-3. **CSS3**
+2. **HTML5**(BEM).
+3. **CSS3**(flex,grid).
 4. **Bootstrap 4**
 5. **JS**
 
