@@ -38,7 +38,7 @@ header {
     height: 100vh;
     background-image: url("../img/crayon_top.jpg");
     width: 100%;
-    background-size: cover;
+    background-size: 100% 100%;
     background-repeat: no-repeat;
     background-attachment: fixed;
 }
@@ -194,8 +194,8 @@ header {
 }
 
 .education-study__it img:hover{
-    transform: scale(0.8);
-    transition: ease 3s;
+    transform: scale(1.1);
+    transition: ease 2s;
 }
 
 
