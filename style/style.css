@@ -202,7 +202,7 @@ hr {
     align-self: center;
     width: 23%;
     height: 100%;
-
+}
 .education-study__it img:hover{
     transform: scale(1.1);
     transition: ease 2s;
