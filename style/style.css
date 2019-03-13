@@ -47,6 +47,11 @@ header {
 
 }
 
+.containet-opacity {
+    height: 100%;
+    background: rgba(154, 160, 159, 0.31);
+}
+
 .navbar {
     display: flex;
     justify-content: flex-end;
@@ -81,6 +86,7 @@ header {
 .navbar-right li {
     margin-right: 20px;
     padding: 4px 20px;
+    font-family: sans-serif;
 }
 
 .navbar-right a:hover {
@@ -103,16 +109,14 @@ header {
 }
 
 .cover span {
-    font-family: "Monotype Corsiva";
+       font-weight: 400;
     font-size: 75px;
     color: rgb(255, 234, 42);
 }
 
 .cover p {
     text-align: center;
-    font-family: "Monotype Corsiva";
-    font-size: 40px;
-    color: rgb(28, 241, 178);
+    font-size: 30px;
 }
 
 #about h2 {
