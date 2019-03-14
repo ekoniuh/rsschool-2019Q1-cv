@@ -1,6 +1,5 @@
 @import url('https://fonts.googleapis.com/css?family=Open+Sans');
 @import url('https://fonts.googleapis.com/css?family=Arimo:400,400italic|Playfair+Display+SC:400,700&subset=latin,cyrillic');
-
 @import url('https://fonts.googleapis.com/css?family=Old+Standard+TT');
 
 body {
@@ -9,8 +8,6 @@ body {
     max-width: 1020px;
     margin: 0 auto;
     background-color: white;
-
-
 }
 
 a,
@@ -44,7 +41,6 @@ header {
     background-size: 100% 100%;
     background-repeat: no-repeat;
     background-attachment: fixed;
-
 }
 
 .container-opacity {
@@ -79,8 +75,7 @@ header {
     transform: scale(1.2);
     border: 1px solid #39cccc;
     border-radius: 5px;
-    transition: ease 1s;
-    animation-delay: 2s;
+    transition: ease 0.5s;
 }
 
 .navbar-right li {
@@ -173,9 +168,6 @@ header {
     font-family: 'Old Standard TT', serif;
 }
 
-hr {
-
-}
 .box-education h3 {
     font-family: 'Arial Narrow', Arial, sans-serif;
     font-size: 35px;
@@ -207,10 +199,10 @@ hr {
     width: 23%;
     height: 100%;
 }
-.education-study__it img:hover{
+
+.education-study__it img:hover {
     transform: scale(1.1);
     transition: ease 2s;
-
 }
 
 .education-study__it ul li a {
@@ -225,12 +217,9 @@ hr {
     height: 100%;
 }
 
-
-
 .education-study__it img:hover {
     transform: scale(1.1);
     transition: ease 1s;
-
 }
 
 #footer {
